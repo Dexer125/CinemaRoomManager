@@ -1,0 +1,18 @@
+content:
+- If expression
+- Overview of the basic program
+- Standard input
+- Ranges
+- Type conversion
+- For loop and ranges
+- Work with MutableLists
+- For loop and lists
+- When expression
+- Comments
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- The try-catch-finally statement
+- Floating-point types
